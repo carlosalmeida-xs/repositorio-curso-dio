@@ -1,0 +1,20 @@
+Processos do Git
+
+Conexão:
+git config
+$ git config --global user.email "carlosxtec@gmail.com"
+$ git config --global user.name carlosalmeida-xs
+(pode ser somente para uma pasta também)
+
+Processos:
+git init
+criar um repositorio no git
+
+git add
+coloca os arquivos no tracked "staged"
+
+git commit
+consolida os arquivos
+
+git remote add
+push
